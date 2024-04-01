@@ -53,6 +53,8 @@ The official Mode documentation can be accessed [here](https://docs.mode.network
 | [Get Mode Developer Role](https://mode.hashnode.dev/get-developer-role) | How to Get the Developer Role on Mode Discord | Article with instructions to grab the developer role on Mode discord server. [Docs](https://loogi.notion.site/Get-the-Developer-Role-on-Mode-Discord-35a894eb803d4069b94dec6106085493?pvs=4) | Joshua Omobola | 02.29.2024 |
 | [Verify contracts on Blockscout](https://mode.hashnode.dev/get-developer-role) | How to Verify Smart Contracts on BlockScout with Hardhat |  Article with step-by-step to verify contracts on Blockscout using hardhat. [Docs](https://loogi.notion.site/How-to-Verify-Smart-Contracts-on-BlockScout-with-Hardhat-0e06befd11784e93b09b99b1ecbd3efd?pvs=4) | Joshua Omobola | 02.29.2024 |
 | [Get Mode Developer Role](https://mode.hashnode.dev/get-developer-role) | Awareness about Mode SFS at web3afrika x Scroll_zkp community event (in-person) | Gave a talk about Optimisim RPGF at a Web3 event in my City and hightlighted the grant that Mode was awarded because of it's contribution to the Optimisim Ecosystem vis-a-vis the SFS [Docs](https://loogi.notion.site/Get-the-Developer-Role-on-Mode-Discord-35a894eb803d4069b94dec6106085493?pvs=4) | Joshua Omobola | 02.29.2024 |
+|[VIDEO on X](https://x.com/HGoodgod/status/1772472275423432724?s=20) | LSD/LRT Tokens and Renzo restake | A quick tutorial on how to leverage looping strategies on MODE | Hermes Goodgod | 03.26.2024
+|[Video on X](https://x.com/HGoodgod/status/1774629360269512917?s=20) | LSD/LRT Tokens and Renzo restake | A quick tutorial in Portuguese on how to leverage looping strategies on MODE | Hermes Goodgod | 03.31.2024
 
 ## Developer Resources
 
